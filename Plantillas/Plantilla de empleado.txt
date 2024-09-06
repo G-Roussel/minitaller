@@ -1,2 +1,2 @@
-Nombre:
-Tema del mini taller:
+Nombre: Pedro Rodríguez Solano
+Tema del mini taller: Uso de Git
