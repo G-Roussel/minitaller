@@ -1,2 +1,2 @@
-Nombre:
-Tema del mini taller:
+Nombre: Jesus Rojas
+Tema del mini taller: TensorFlow Lite 
