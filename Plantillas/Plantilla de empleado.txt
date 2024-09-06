@@ -1,2 +1,2 @@
-Nombre:
-Tema del mini taller:
+Nombre: George Briceno
+Tema del mini taller: taller de git
