@@ -1,2 +1,6 @@
+Nombre: Pedro Rodríguez Solano
+Tema del mini taller: Uso de Git
+
 Nombre: Jesus Rojas
 Tema del mini taller: TensorFlow Lite 
+
